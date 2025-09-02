@@ -41,4 +41,11 @@ Here are some of my featured data projects:
 - **Machine Learning:** Linear/Logistic Regression, Classification, Clustering, Neural Networks  
 - **Professional Background:** Software Development, Agile Scrum Master  
 
+## How to Use This Portfolio
+
+- README: Describes project goals, methods, and key findings.
+- Sample dataset & Notebooks: Includes well-documented scripts and analyses.
+- Data & Visualizations: Provided where applicable to illustrate results.
+- Feedback & Collaboration: Feel free to explore, ask questions, or share your thoughts.
+
 Feel free to fork and star this repository if you like my work!

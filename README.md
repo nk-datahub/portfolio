@@ -1,4 +1,3 @@
-# Hi, I'm Niki
 
 Welcome to my portfolio repository!  
 This repo serves as a central hub for my projects, skills, and achievements.
@@ -7,7 +6,7 @@ This repo serves as a central hub for my projects, skills, and achievements.
 
 ## About Me
 
-I am a seasoned professional with expertise in **data analysis**, **software development**, and **Agile Scrum practices**.  
+Hi, I'm Niki. I am a seasoned professional with expertise in **data analysis**, **software development**, and **Agile Scrum practices**.  
 
 Currently, I’m focused on expanding my skills in the **data domain** — learning and applying **Python**, **machine learning (ML)**, and various **supervised/unsupervised models**.  
 

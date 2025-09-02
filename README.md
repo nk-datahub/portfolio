@@ -2,17 +2,14 @@
 Welcome to my portfolio repository!  
 This repo serves as a central hub for my projects, skills, and achievements.
 
-<hr style="border:0.5px solid #d3d3d3;" />
 
 ## About Me
 
-Hi, I'm Niki. I am a seasoned professional with expertise in **data analysis**, **software development**, and **Agile Scrum practices**.  
+Hi, I'm Niki. I am a seasoned professional with expertise in data analysis, software development, and Agile Scrum practices.  
 
-Currently, I’m focused on expanding my skills in the **data domain** — learning and applying **Python**, **machine learning (ML)**, and various **supervised/unsupervised models**.  
+Currently, I’m focused on expanding my skills in the data domain — learning and applying Python, machine learning (ML), and various supervised/unsupervised models.  
 
 My goal is to analyze diverse datasets, build practical ML solutions, and continuously grow my capabilities as a data-driven problem solver.
-
-<hr style="border:0.5px solid #d3d3d3;" />
 
 ## Projects
 
@@ -37,8 +34,6 @@ Here are some of my featured data projects:
 > Click on the project titles above to explore the repositories.  
 > I’ll be continuously adding more projects as I learn and experiment.
 
-<hr style="border:0.5px solid #d3d3d3;" />
-
 ## Skills
 
 - **Programming & Tools:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
@@ -46,6 +41,4 @@ Here are some of my featured data projects:
 - **Machine Learning:** Linear/Logistic Regression, Classification, Clustering, Neural Networks  
 - **Professional Background:** Software Development, Agile Scrum Master  
 
-<hr style="border:0.5px solid #d3d3d3;" />
-
-⭐️ Feel free to fork and star this repository if you like my work!
+Feel free to fork and star this repository if you like my work!
